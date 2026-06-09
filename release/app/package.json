@@ -1,0 +1,17 @@
+{
+  "name": "meetspace-desktop",
+  "version": "1.0.0",
+  "description": "MeetSpace Desktop App",
+  "main": "dist/main/main.js",
+  "private": true,
+  "dependencies": {
+    "electron-debug": "^4.1.0",
+    "electron-log": "^5.3.2",
+    "electron-updater": "^6.3.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
+    "uuid": "^9.0.1",
+    "ws": "^8.18.0"
+  }
+}
